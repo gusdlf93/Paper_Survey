@@ -3,6 +3,7 @@
 # Computer Vision
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
+|2021|nips|Per-Pixel Classification is Not All You Need for Semantic Segmentation |김현일|[Paper](https://arxiv.org/pdf/2107.06278.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/9)|
 |2021|arXiv|A Survey of Visual Transformers |김현일|[Paper](https://arxiv.org/pdf/2111.06091.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/8)|
 |2021|CVPR|Rethinking Semantic Segmentation from a Sequence-to-Sequence Perspective with Transformers |김현일|[Paper](https://arxiv.org/abs/2012.15840), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/5)|
 |2021|ICCV (Spotlight)|LAMBDANETWORKS: MODELING LONG-RANGE INTERACTIONS WITHOUT ATTENTION|김현일|[Paper](https://openreview.net/pdf?id=xTJEN-ggl1b), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/3)|
