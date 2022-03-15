@@ -20,3 +20,8 @@
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
 |2021|arxiv|Masked Autoencoders Are Scalable Vision Learners|김현일|[Paper](https://arxiv.org/pdf/2111.06377.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/6)|
+
+# Medical
+|Year|Journal/Conference|Title|Reviewer|Links|
+|:-:|:-:|:-|:-:|:-:|
+|2022|Deep Bio ppt| Stain Normalization Survey |김현일|[ppt](https://docs.google.com/presentation/d/1SR5xTKa0x5CpZckJayaA_BmRpTAqdvp6svjj7_zsQFc/edit?usp=sharing), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/12)|
