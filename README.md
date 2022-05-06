@@ -3,6 +3,8 @@
 # Computer Vision
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
+2021|NIPS|Does Knowledge Distillation Really Work? |김현일|[Paper](https://papers.nips.cc/paper/2021/file/376c6b9ff3bedbbea56751a84fffc10c-Paper.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/14)|
+|2021|arXiv|Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results |김현일|[Paper](https://arxiv.org/pdf/2204.03475.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/15)|
 |2021|arXiv|Masked-attention Mask Transformer for Universal Image Segmentation |김현일|[Paper](https://arxiv.org/pdf/2112.01527.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/10)|
 |2021|nips|Per-Pixel Classification is Not All You Need for Semantic Segmentation |김현일|[Paper](https://arxiv.org/pdf/2107.06278.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/9)|
 |2021|arXiv|A Survey of Visual Transformers |김현일|[Paper](https://arxiv.org/pdf/2111.06091.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/8)|
