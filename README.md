@@ -16,7 +16,7 @@
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
 2021|NIPS|Does Knowledge Distillation Really Work? |김현일|[Paper](https://papers.nips.cc/paper/2021/file/376c6b9ff3bedbbea56751a84fffc10c-Paper.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/14), [ppt](https://github.com/gusdlf93/Paper_Survey/files/8791484/Knowledge.Distillation.pdf)|
-|2021|arXiv|Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results |김현일|[Paper](https://arxiv.org/pdf/2204.03475.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/15), [ppt] (https://github.com/gusdlf93/Paper_Survey/files/8791484/Knowledge.Distillation.pdf)|
+|2021|arXiv|Solving ImageNet: a Unified Scheme for Training any Backbone to Top Results |김현일|[Paper](https://arxiv.org/pdf/2204.03475.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/15), [ppt](https://github.com/gusdlf93/Paper_Survey/files/8791484/Knowledge.Distillation.pdf)|
 |2021|IJCV| Knowledge Distillation: A Survey |김현일|[Paper](https://arxiv.org/pdf/2006.05525.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/13), [ppt](https://github.com/gusdlf93/Paper_Survey/files/8791484/Knowledge.Distillation.pdf)|
 
 # Loss Function
@@ -27,7 +27,7 @@
 # Self-Supervised Learning
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
-|2021|arxiv|Masked Autoencoders Are Scalable Vision Learners|김현일|[Paper](https://arxiv.org/pdf/2111.06377.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/6), [ppt](https://github.com/gusdlf93/Paper_Survey/files/7658356/Masked.autoencoders.are.scalable.vision.learners.pptx)|
+|2021|arxiv|Masked Autoencoders Are Scalable Vision Learners|김현일|[Paper](https://arxiv.org/pdf/2111.06377.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/6), [ppt] (https://github.com/gusdlf93/Paper_Survey/files/7658356/Masked.autoencoders.are.scalable.vision.learners.pptx)|
 
 # Medical
 |Year|Journal/Conference|Title|Reviewer|Links|
