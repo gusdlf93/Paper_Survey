@@ -27,7 +27,7 @@
 # Self-Supervised Learning
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
-|2021|arxiv|Masked Autoencoders Are Scalable Vision Learners|김현일|[Paper](https://arxiv.org/pdf/2111.06377.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/6)|
+|2021|arxiv|Masked Autoencoders Are Scalable Vision Learners|김현일|[Paper](https://arxiv.org/pdf/2111.06377.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/6) [ppt] (https://github.com/gusdlf93/Paper_Survey/files/7658356/Masked.autoencoders.are.scalable.vision.learners.pptx)|
 
 # Medical
 |Year|Journal/Conference|Title|Reviewer|Links|
