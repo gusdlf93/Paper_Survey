@@ -32,4 +32,4 @@
 # Medical
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
-|2022|Deep Bio ppt| Stain Normalization Survey |김현일|[ppt](https://docs.google.com/presentation/d/1SR5xTKa0x5CpZckJayaA_BmRpTAqdvp6svjj7_zsQFc/edit?usp=sharing), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/12)|
+|2022|Deep Bio ppt| Stain Normalization Survey |김현일|[Summary](https://github.com/gusdlf93/Paper_Survey/issues/12)[ppt](https://docs.google.com/presentation/d/1SR5xTKa0x5CpZckJayaA_BmRpTAqdvp6svjj7_zsQFc/edit?usp=sharing)|
