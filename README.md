@@ -3,6 +3,9 @@
 # Computer Vision
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
+|2022|arXiv|Instant Neural Graphics Primitives with a Multiresolution Hash Encoding  |김현일|[Paper](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/16), [ppt](https://docs.google.com/presentation/d/1uvvDOp65Guo9dxTVXsJa5Z2b4R9MuuGgcaYKUmePTNg/edit?usp=sharing)|
+|2022|arXiv|EfficientFormer : Vision Transformers at MobileNet Speed |김현일|[Paper](https://arxiv.org/abs/2206.01191.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/17), [ppt](https://docs.google.com/presentation/d/1mByIQVSCxaHjZJf4jx3nG6ddM4j_RY5LZF6TGsXB-Os/edit#slide=id.g1315fd7a39e_0_6)|
+|2020|ECCV|NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis |김현일|[Paper](https://arxiv.org/abs/2003.08934.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/18), [ppt](https://docs.google.com/presentation/d/1pnuG4VCcBdKybVN-ULSo3n0qKV6rbpKFiJ1C9L_d30M/edit?usp=sharing)|
 |2021|arXiv|Masked-attention Mask Transformer for Universal Image Segmentation |김현일|[Paper](https://arxiv.org/pdf/2112.01527.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/10)|
 |2021|nips|Per-Pixel Classification is Not All You Need for Semantic Segmentation |김현일|[Paper](https://arxiv.org/pdf/2107.06278.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/9)|
 |2021|arXiv|A Survey of Visual Transformers |김현일|[Paper](https://arxiv.org/pdf/2111.06091.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/8), [ppt](https://github.com/gusdlf93/Paper_Survey/files/7887540/Vision.Transformers.pptx)|
