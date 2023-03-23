@@ -3,6 +3,7 @@
 # Computer Vision
 |Year|Journal/Conference|Title|Reviewer|Links|
 |:-:|:-:|:-|:-:|:-:|
+|2023|arXiv|ControlNet : Adding Conditional Control to Text-to-Image Diffusion Models|김현일|[Paper](https://arxiv.org/pdf/2302.05543.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/21), [PPT](https://docs.google.com/presentation/d/167RWT8uAwJ5WS4FAbq_RKu5uNED_Jfoi/edit?usp=share_link&ouid=113313327863072169561&rtpof=true&sd=true)
 |2022|arXiv|Instant Neural Graphics Primitives with a Multiresolution Hash Encoding  |김현일|[Paper](https://nvlabs.github.io/instant-ngp/assets/mueller2022instant.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/16), [ppt](https://docs.google.com/presentation/d/1uvvDOp65Guo9dxTVXsJa5Z2b4R9MuuGgcaYKUmePTNg/edit?usp=sharing)|
 |2022|arXiv|EfficientFormer : Vision Transformers at MobileNet Speed |김현일|[Paper](https://arxiv.org/abs/2206.01191.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/17), [ppt](https://docs.google.com/presentation/d/1mByIQVSCxaHjZJf4jx3nG6ddM4j_RY5LZF6TGsXB-Os/edit#slide=id.g1315fd7a39e_0_6)|
 |2020|ECCV|NeRF: Representing Scenes as Neural Radiance Fields for View Synthesis |김현일|[Paper](https://arxiv.org/abs/2003.08934.pdf), [Summary](https://github.com/gusdlf93/Paper_Survey/issues/18), [ppt](https://docs.google.com/presentation/d/1pnuG4VCcBdKybVN-ULSo3n0qKV6rbpKFiJ1C9L_d30M/edit?usp=sharing)|
